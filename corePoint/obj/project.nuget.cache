@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CH2b9GHCWbSyXJxctu0lBEZcnYpLzrqRUkRkWw6ejRHJv5jfDNdF6gG9XkU1gwDrWjm2Lfr27W+QEaXNbWjxZw==",
+  "success": true,
+  "projectFilePath": "/Users/alexwelcing/Desktop/Dev/corePoint/corePoint/CorepointAngular/corePoint/corePoint.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexwelcing/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.8/microsoft.aspnetcore.spaproxy.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
